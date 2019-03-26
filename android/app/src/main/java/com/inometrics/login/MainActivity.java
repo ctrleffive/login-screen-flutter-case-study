@@ -1,4 +1,4 @@
-package in.chandujs.login;
+package com.inometrics.login;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
